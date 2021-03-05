@@ -1,0 +1,38 @@
+[
+    {
+      "title": "bitcoin",
+      "cards": [
+        {
+          "word": "peer to peer",
+          "definition": "JS object that holds values for a component"
+        }
+      ]
+    },
+    {
+      "title": "altcoins",
+      "cards": [
+        {
+          "word": "ethereum",
+          "definition": "tokens help represent electricity used in computing power for transactions"
+        },
+        {
+          "word": "cardano",
+          "definition": "smart contracts"
+        },
+        {
+          "word": "litecoin",
+          "definition": "trash"
+        }
+      ]
+    },
+    {
+      "title": "dapp tokens",
+      "cards": [
+        {
+          "word": "made on blockchains like eth or NEO",
+          "definition": "the big fish"
+        }
+      ]
+    }
+  ]
+  
